@@ -5,3 +5,6 @@ Malaysia
 Indonesia
 Phillipines
 Mongolia
+China
+Korea
+Japan
