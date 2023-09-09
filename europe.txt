@@ -3,3 +3,5 @@ France
 Spain
 Italy
 Switzerland
+Belgium
+Luxemborg
