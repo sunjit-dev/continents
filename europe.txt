@@ -2,3 +2,4 @@ Germany
 France
 Spain
 Italy
+Switzerland
